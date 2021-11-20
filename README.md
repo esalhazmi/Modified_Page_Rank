@@ -3,4 +3,4 @@ A simple implementation of System call graph Extraction using modified PageRank 
 
 The calculation of TF-IDF for the system calls (vertices) is used instead of the page rank coefficient to reflect the importance degree of each vertex.
 
-DISCLAIMER: I do not claim to be an expert in PageRank. I tried to implement and follow the approach in published paper and not sure how accurate is. I implemented it only for curiosity.  
+DISCLAIMER: I do not claim to be an expert in PageRank. I tried to implement and follow the approach in the paper and not sure how accurate is. I implemented it only for curiosity.  
