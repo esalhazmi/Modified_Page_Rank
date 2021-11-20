@@ -6,8 +6,8 @@ import random
 
 '''
 This is an implementation of using TF-IDF in the system call graph as coefficients in the pagerank algorithm.
-We the TFIDF is added as node attributes
-For more details review 
+TFIDF is added as node attributes
+For more details, please review the following paper in Features extraction section/System Call Graph Extraction subsection.
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211373
 '''
 
